@@ -1,4 +1,4 @@
-# Olá 👋 Eu sou ROBSON HONÓRIO ARRUDA
+# Olá 👋 Eu sou ROBSON ARRUDA
 > Desenvolvedor Front-end — transformando ideias em interfaces claras e responsivas.
 
 Sou apaixonado por construir experiências web acessíveis, performáticas e fáceis de manter. Trabalho com interfaces modernas, foco em qualidade e colaboração em equipe.
@@ -20,12 +20,9 @@ Os gráficos abaixo são gerados automaticamente a partir do seu perfil GitHub (
 - Activity Graph (visualização das contribuições ao longo do tempo)  
   ![Activity graph](https://activity-graph.herokuapp.com/graph?username=ROBs788&theme=dark)
 
-> Observação: esses serviços são públicos e atualizam automaticamente. Posso trocar o tema ou substituir por gráficos estáticos caso prefira imagens geradas por você.
-
 ---
 
 ## 🛠️ Tecnologias aprendidas
-Aqui estão as tecnologias que você indicou — com badges e uma breve descrição de uso.
 
 - HTML  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -39,16 +36,14 @@ Aqui estão as tecnologias que você indicou — com badges e uma breve descriç
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
   Uso: ES6+, manipulação do DOM, consumo de APIs (fetch/axios), lógica de front e interações dinâmicas.
 
-Se quiser, eu adiciono níveis de proficiência (Básico • Intermediário • Avançado) a cada tecnologia.
-
 ---
 
 ## ⭐ Projetos em destaque
 (Informe até 3 projetos públicos com link e 1–2 linhas sobre eles; eu adiciono automaticamente aqui)
 
-1. Projeto A — breve descrição (adicione link)  
-2. Projeto B — breve descrição (adicione link)  
-3. Contribuição OSS — breve descrição (adicione link)
+1. Projeto A — breve descrição ()  
+2. Projeto B — breve descrição ()  
+3. Contribuição OSS — breve descrição ()
 
 ---
 
