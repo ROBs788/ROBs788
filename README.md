@@ -3,9 +3,6 @@
 ### Desenvolvedor de Software | Full Stack | Web & Mobile
 
 Olá! Eu sou **Robson**, desenvolvedor de software apaixonado por tecnologia e desenvolvimento de aplicações.
-
-Tenho experiência profissional na área de **infraestrutura e redes** e venho expandindo minha atuação para o desenvolvimento de software, criando projetos e estudando continuamente novas tecnologias.
-
 ---
 
 ## 🚀 Sobre mim
