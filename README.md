@@ -1,111 +1,108 @@
-<h1 align="center">Olá, eu sou Robson Arruda 👋</h1>
+👨‍💻 Robson Arruda
+Desenvolvedor de Software | Web Development | Tecnologia
 
-<h3 align="center">
-Desenvolvedor Full Stack apaixonado por tecnologia, interfaces modernas e soluções escaláveis.
-</h3>
+Olá! Eu sou Robson Arruda, desenvolvedor de software apaixonado por tecnologia e desenvolvimento de aplicações web.
 
----
+Tenho experiência profissional na área de infraestrutura e redes, além de estar em constante evolução no desenvolvimento de software, criando projetos para colocar meus conhecimentos em prática e construir um portfólio cada vez mais completo.
 
-## 🚀 Sobre mim
+🚀 Sobre mim
+💻 Desenvolvedor de Software
+🌐 Desenvolvimento Web
+🖥️ Experiência com infraestrutura e redes
+📚 Sempre estudando e evoluindo
+🛠️ Gosto de transformar ideias em projetos funcionais
+🎯 Buscando oportunidades para crescer profissionalmente como desenvolvedor
+🧰 Tecnologias
+Front-end
 
-💻 Desenvolvedor Full Stack em constante evolução.
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
 
-🎯 Focado em criar aplicações modernas, performáticas e responsivas.
+Back-end
 
-📚 Estudando continuamente novas tecnologias e boas práticas de desenvolvimento.
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> </p>
 
-🌎 Fortaleza - Ceará, Brasil
+Banco de dados
 
----
+<p> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
 
-## 🛠️ Tecnologias e Ferramentas
+Ferramentas
 
-### Front-End
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
-</p>
+📂 Projetos em destaque
+🛒 Mercado Livre Clone
 
-### Back-End
+Projeto desenvolvido para praticar desenvolvimento de interfaces web, estruturação de páginas e responsividade.
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+🔗 Projeto:
+https://robs788.github.io/MERCADO-LIVRE-CLONE/
 
-### Banco de Dados
+💳 NuBank Page
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+Interface inspirada em uma página de banco digital, desenvolvida para praticar HTML, CSS, JavaScript e construção de layouts modernos.
 
-### DevOps e Ferramentas
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-</p>
+🎫 HelpDesk Pro
 
-### Infraestrutura
+Sistema de atendimento e gerenciamento de chamados em desenvolvimento.
 
-- Redes de Computadores
-- Configuração e administração de ambientes
-- Segurança básica de redes
-- Virtualização
+A proposta é criar uma plataforma para organizar:
 
----
+🎫 Chamados
+👥 Clientes
+💬 Atendimento
+📊 Dashboard
+📈 Relatórios
+👤 Usuários
+⚙️ Configurações
+🌐 Meu GitHub
 
-## 📌 Projetos em Destaque
+🔗 github.com/ROBs788
 
-### 🛒 Mercado Livre Clone
+Aqui você encontrará meus projetos, estudos e experimentos relacionados ao desenvolvimento de software.
 
-Clone responsivo inspirado no Mercado Livre.
+💼 Experiência
 
-🔗 https://robs788.github.io/MERCADO-LIVRE-CLONE/
+Também possuo experiência profissional com infraestrutura de redes, atuando com:
 
-Tecnologias:
-- HTML5
-- CSS3
-- JavaScript
+🌐 Instalação e configuração de redes
+🔧 Roteadores e switches
+📡 Projetos e expansão de infraestrutura
+🖥️ Monitoramento
+🛠️ Suporte técnico
+💻 Manutenção de computadores
+🖨️ Impressoras
+🔐 VPN
+📧 Configuração de e-mail
+🎫 Ferramentas de chamados
 
----
+Essa experiência me proporciona uma visão mais ampla de tecnologia, unindo infraestrutura, suporte e desenvolvimento de software.
 
-### 💜 Nubank Landing Page
+📚 Atualmente estudando
+JavaScript
+   ↓
+Node.js
+   ↓
+APIs REST
+   ↓
+PostgreSQL
+   ↓
+Sequelize
+   ↓
+Arquitetura de aplicações
+   ↓
+Desenvolvimento de sistemas
+🎯 Objetivo
 
-Landing page moderna inspirada no Nubank.
+Meu objetivo é continuar evoluindo como desenvolvedor de software, trabalhando em projetos reais, aprendendo novas tecnologias e contribuindo para soluções que gerem valor para empresas e usuários.
 
-🔗 https://robs788.github.io/nu-bank-page/
+📫 Contato
 
-Tecnologias:
-- React
-- Vite
-- JavaScript
-- GSAP
-- CSS3
+💼 LinkedIn:
+https://www.linkedin.com/in/robsonarrudadev/
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robs788&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robs788&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📫 Vamos nos conectar
-
-<p>
-<a href="https://linkedin.com/in/robson-arruda">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/robs788">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+🐙 GitHub:
+https://github.com/ROBs788
 
 ---
 
